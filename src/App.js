@@ -1,20 +1,21 @@
 import { useEffect, useState } from 'react';
 import './App.css';
-import Card from './components/Card/Card';
 import Header from './components/Header/Header';
 
 function App() {
   const [animals, setAnimals] = useState([]);
   console.log(animals);
   useEffect(() => {
-    fetch('animals.json')
+    fetch('animal.json')
     .then(res => res.json())
-    .then(data => console.log(data))
+    .then(data => setAnimals(data))
   }, [])
   return (
     <div className="App">
       <Header/>
-      <Card/>
+      {
+        animals.map(animal => <h1 key={animal.id}>{animal.name}</h1>)
+      }
     </div>
   );
 }

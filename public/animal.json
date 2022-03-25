@@ -1,12 +1,62 @@
 [
-{id: 1, name: 'Cute meo', image: '1.jpg', price: 250},
-{id: 2, name: 'Smart boy', image: '2.jpg', price: 450},
-{id: 3, name: 'Angry baby', image: '3.jpg', price: 190},
-{id: 4, name: 'Hungry Cat', image: '4.jpg', price: 360},
-{id: 5, name: 'Group buddy', image: '5.jpg', price: 490},
-{id: 6, name: 'Old man', image: '6.jpg', price: 300},
-{id: 7, name: 'Tired person', image: '7.jpg', price: 280},
-{id: 8, name: 'Obedient one', image: '8.jpg', price: 600},
-{id: 9, name: 'Chilly Man', image: '9.jpg', price: 400},
-{id: 10, name: 'Running Cutey', image: '10.jpg', price: 300}
+  {
+    "id": 174674387,
+    "name": "Cute meo",
+    "image": "../src/images/1.jpg",
+    "price": 250
+  },
+  {
+    "id": 2983794,
+    "name": "Smart boy",
+    "image": "../src/images/2.jpg",
+    "price": 450
+  },
+  {
+    "id": 372309478,
+    "name": "Angry baby",
+    "image": "../src/images/3.jpg",
+    "price": 190
+  },
+  {
+    "id": 40283497,
+    "name": "Hungry Cat",
+    "image": "../src/images/4.jpg",
+    "price": 360
+  },
+  {
+    "id": 5293874902,
+    "name": "Group buddy",
+    "image": "../src/images/5.jpg",
+    "price": 490
+  },
+  {
+    "id": 6029374022,
+    "name": "Old man",
+    "image": "../src/images/6.jpg",
+    "price": 300
+  },
+  {
+    "id": 723479037459,
+    "name": "Tired person",
+    "image": "../src/images/7.jpg",
+    "price": 280
+  },
+  {
+    "id": 8394502934029,
+    "name": "Obedient one",
+    "image": "../src/images/8.jpg",
+    "price": 600
+  },
+  {
+    "id": 945675564,
+    "name": "Chilly Man",
+    "image": "../src/images/9.jpg",
+    "price": 400
+  },
+  {
+    "id": 104365643,
+    "name": "Running Cutey",
+    "image": "../src/images/10.jpg",
+    "price": 300
+  }
 ]
