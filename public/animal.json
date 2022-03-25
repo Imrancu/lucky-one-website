@@ -2,61 +2,61 @@
   {
     "id": 174674387,
     "name": "Cute meo",
-    "image": "../src/images/1.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 250
   },
   {
     "id": 2983794,
     "name": "Smart boy",
-    "image": "../src/images/2.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 450
   },
   {
     "id": 372309478,
     "name": "Angry baby",
-    "image": "../src/images/3.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 190
   },
   {
     "id": 40283497,
     "name": "Hungry Cat",
-    "image": "../src/images/4.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 360
   },
   {
     "id": 5293874902,
     "name": "Group buddy",
-    "image": "../src/images/5.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 490
   },
   {
     "id": 6029374022,
     "name": "Old man",
-    "image": "../src/images/6.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 300
   },
   {
     "id": 723479037459,
     "name": "Tired person",
-    "image": "../src/images/7.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 280
   },
   {
     "id": 8394502934029,
     "name": "Obedient one",
-    "image": "../src/images/8.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 600
   },
   {
     "id": 945675564,
     "name": "Chilly Man",
-    "image": "../src/images/9.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 400
   },
   {
     "id": 104365643,
     "name": "Running Cutey",
-    "image": "../src/images/10.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
     "price": 300
   }
 ]
