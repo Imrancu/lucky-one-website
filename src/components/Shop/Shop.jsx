@@ -15,7 +15,6 @@ const Shop = () => {
 
   const handleAddToCart = (animal) => {
     const addAnimalName = [...cart, animal];
-    console.log(addAnimalName);
     setCart(addAnimalName);
   };
   const emptyData = () => {
@@ -45,9 +44,13 @@ const Shop = () => {
         {cart.map((cart) => (
           <Cart cart={cart} />
         ))}
-        <button onClick={showRandomItem}>Show One Item</button>
+        <button className="btn-show-item" onClick={showRandomItem}>
+          Show One Item
+        </button>
         <br />
-        <button onClick={emptyData}>Empty all</button>
+        <button className="btn-empty-item" onClick={emptyData}>
+          Empty All Item
+        </button>
       </div>
     </div>
   );

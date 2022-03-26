@@ -1,9 +1,4 @@
-/* .cart {
-  position: sticky;
-  top: 0;
-  padding: 30px 20px;
-  color: white;
-}
 .cart h2 {
-  margin-bottom: 15px;
-} */
+  position: sticky;
+  top: 100px;
+}

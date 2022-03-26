@@ -58,5 +58,17 @@
     "name": "Running Cutey",
     "image": "https://cdn.pixabay.com/photo/2020/06/02/06/18/kitten-5249587_960_720.jpg",
     "price": 300
+  },
+  {
+    "id": 104365,
+    "name": "Happy Boy",
+    "image": "https://cdn.pixabay.com/photo/2019/10/18/09/29/cat-4558651_960_720.jpg",
+    "price": 270
+  },
+  {
+    "id": 10436,
+    "name": "Pure Hunter",
+    "image": "https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_960_720.jpg",
+    "price": 700
   }
 ]
