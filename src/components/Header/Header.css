@@ -1,14 +1,14 @@
+.header {
+  background-color: #40407a;
+  text-align: center;
+}
 .header h1 {
-  background-color: #16a085;
-  margin: 0;
-  padding-top: 5px;
   color: white;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
+  margin: 0;
 }
 .header p {
-  margin: 0;
-  background-color: #16a085;
-  padding: 0.5rem 0;
   color: white;
+  padding-bottom: 10px;
 }

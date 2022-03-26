@@ -2,19 +2,19 @@
   {
     "id": 174674387,
     "name": "Cute meo",
-    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/02/06/06/29/dog-5987025_960_720.jpg",
     "price": 250
   },
   {
     "id": 2983794,
     "name": "Smart boy",
-    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
+    "image": "https://cdn.pixabay.com/photo/2017/07/25/01/22/cat-2536662_960_720.jpg",
     "price": 450
   },
   {
     "id": 372309478,
     "name": "Angry baby",
-    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
+    "image": "https://cdn.pixabay.com/photo/2021/05/09/06/07/dog-6240043_960_720.jpg",
     "price": 190
   },
   {
@@ -26,37 +26,37 @@
   {
     "id": 5293874902,
     "name": "Group buddy",
-    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
+    "image": "https://cdn.pixabay.com/photo/2018/03/29/21/51/cute-3273789_960_720.jpg",
     "price": 490
   },
   {
     "id": 6029374022,
     "name": "Old man",
-    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
+    "image": "https://cdn.pixabay.com/photo/2016/08/19/23/53/dog-1606600_960_720.jpg",
     "price": 300
   },
   {
     "id": 723479037459,
     "name": "Tired person",
-    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
+    "image": "https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559_960_720.jpg",
     "price": 280
   },
   {
     "id": 8394502934029,
     "name": "Obedient one",
-    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
-    "price": 600
+    "image": "https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313_960_720.jpg",
+    "price": 500
   },
   {
     "id": 945675564,
-    "name": "Chilly Man",
-    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
+    "name": "Chilly Family",
+    "image": "https://cdn.pixabay.com/photo/2018/10/01/09/21/pets-3715734_960_720.jpg",
     "price": 400
   },
   {
     "id": 104365643,
     "name": "Running Cutey",
-    "image": "https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg",
+    "image": "https://cdn.pixabay.com/photo/2020/06/02/06/18/kitten-5249587_960_720.jpg",
     "price": 300
   }
 ]
